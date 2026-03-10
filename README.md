@@ -16,10 +16,11 @@ Tesseract OCR
 OpenCV
 TensorFlow / Keras
 Pillow
-
 NumPy
+
 📂 Project Structure
 OCR/
+
 │
 ├── Images/                       # Sample images for OCR
 ├── Textemage.py                  # Main OCR processing script
