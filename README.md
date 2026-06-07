@@ -22,11 +22,17 @@ NumPy
 OCR/
 
 │
+
 ├── Images/                       # Sample images for OCR
+
 ├── Textemage.py                  # Main OCR processing script
+
 ├── ex.py                         # Execution script
+
 ├── icon.png                      # Application icon
+
 ├── Text_recognizer_Using_CRNN.h5 # Pretrained CRNN model
+
 └── README.md
 
 ⚙️ Installation
